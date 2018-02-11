@@ -31,9 +31,9 @@ npm run build
  npm run dev 
  
 ```
-## 用户名--密码
+## 启动后的地址说明
 ```
- 用户名：admin
- 密码：admin
+对应的地址为build/utils/ 内的name值
+该系统有2个地址 http://127.0.0.1:9090/client.html,http://127.0.0.1:9090/admin.html
  
 ```
